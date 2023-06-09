@@ -1,2 +1,2 @@
 #!/bin/bash
-echo path=$(cd $(dirname “${BASH_SOURCE:-$0}”) && pwd)/$(basename “${BASH_SOURCE:-$0}”) 
+echo path=$(cd $(dirname “${BASH_SOURCE:-$0}”) )
